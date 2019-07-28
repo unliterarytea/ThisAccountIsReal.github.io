@@ -6,6 +6,7 @@
   height: 100%;
   width: 100%;
   background-color: #fcfaf5;
+  color: white;
   text-align: left;
 }
 
@@ -29,6 +30,7 @@
   width: auto;
   margin: 0px;
   overflow: hidden;
+  color: white;
   background-color: #5e6e69;
   text-align: center;
 }
