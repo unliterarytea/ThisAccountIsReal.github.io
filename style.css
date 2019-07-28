@@ -1,0 +1,34 @@
+.TF {
+  font-family: Consolas;
+}
+
+#Main {
+  height: 100%;
+  width: 100%;
+  color: #fcfaf5;
+  text-align: left;
+}
+
+#Header {
+  height: 10%;
+  width: auto;
+  margin: 0px;
+  overflow: hidden;
+  color: #5e6e69;
+}
+
+#BT {
+  height: auto;
+  width: auto;
+  margin: 0px;
+  overflow: scroll;
+}
+
+#Footer {
+  height: 10%;
+  width: auto;
+  margin: 0px;
+  overflow: hidden;
+  color: #5e6e69;
+  text-align: center;
+}
