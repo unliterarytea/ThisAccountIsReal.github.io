@@ -2,12 +2,17 @@
   font-family: Consolas;
 }
 
+html {
+  box-sizing: border-box;
+  margin: 0px;
+
+}
+
 #Main {
   height: 100%;
   width: 100%;
-  color: white;
-  text-align: left;
-  margin: 0px;
+  color: black;
+  margin: -8px;
 }
 
 #Header {
@@ -22,6 +27,7 @@
   height: auto;
   width: auto;
   margin: 0px;
+  color: #a7a8a7;
   background-color: #fcfaf5;
   overflow: scroll;
 }
@@ -40,12 +46,20 @@
   height: inherit;
   width: 50%;
   margin: 0px;
-  text-align: center;
+  text-align: left;
+  float: left;
 }
 
 #Right-side {
   height: inherit;
   width: 50%;
   margin: 0px;
-  align-self: center;
+  text-align: center;
+  float: right;
+}
+
+#FormLI {
+  -webkit-font-smoothing: antialiased;
+  background: #f0f0f0;
+  display: inline;
 }
