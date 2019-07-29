@@ -4,15 +4,14 @@
 
 html {
   box-sizing: border-box;
-  margin: 0px;
-
+  margin-right: -8px;
+  margin: -8px;
 }
 
 #Main {
   height: 100%;
   width: 100%;
   color: black;
-  margin: -8px;
 }
 
 #Header {
@@ -63,4 +62,9 @@ html {
   -webkit-font-smoothing: antialiased;
   background: #f0f0f0;
   display: inline;
+}
+
+#submitoption {
+  float: right;
+  background-color: #bff5c2;
 }
