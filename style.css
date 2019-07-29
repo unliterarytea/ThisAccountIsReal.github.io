@@ -20,6 +20,7 @@ html {
   width: auto;
   margin: 0px;
   overflow: hidden;
+  color: white;
   background-color: #5e6e69;
 }
 
@@ -27,7 +28,7 @@ html {
   height: auto;
   width: auto;
   margin: 0px;
-  color: #a7a8a7;
+  color: #828282;
   background-color: #fcfaf5;
   overflow: scroll;
 }
